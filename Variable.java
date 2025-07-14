@@ -1,4 +1,4 @@
-package Java_with_DSA;
+package Java_basics;
 
 public class Variable {
     public static void main(String[] args){
@@ -11,7 +11,8 @@ public class Variable {
         long l=1000000000000L;
         short s=10;
         byte b=1;
-
+        
+        //print all the primitive datatypes
         System.out.println(a);
         System.out.println(price);
         System.out.println(ch);
@@ -21,8 +22,7 @@ public class Variable {
         System.out.println(l);
         System.out.println(s);
         System.out.println(b);
-        
-        
+    
     }
     
 }

@@ -1,4 +1,4 @@
-package Java_with_DSA;
+package Java_basics;
 
 public class Main{
     public static void main(String[] args){
